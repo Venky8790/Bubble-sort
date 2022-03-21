@@ -6,7 +6,6 @@ def bubble_sort_v1(container: object) -> object:
    
     container = list(copy.copy(container))
     length = len(container)
-    changed = True
 
     while length:
 
