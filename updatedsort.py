@@ -18,7 +18,7 @@ def bubble_sort_v1(container: object) -> object:
     return container
 
 data = [-2, 45, 0, 11, -9]
-print(bubble_sort_v1(data))
+#print(bubble_sort_v1(data))
 
 data = (-2, 45, 0, 11, -3925)
-print(list(bubble_sort_v1(data)))
+#print(list(bubble_sort_v1(data)))
