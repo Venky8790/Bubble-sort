@@ -1,5 +1,5 @@
 import unittest
-from bubble_sort import bubble_sort_v1
+from updatedsort import bubble_sort_v1
 class TestBubbleSortAlgorithm(unittest.TestCase):
 
     def _test_sort(self, sorting_func, input_list):
